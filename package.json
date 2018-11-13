@@ -34,7 +34,7 @@
     "prepublishOnly": "npm t && npm run lint"
   },
   "dependencies": {
-    "node-fetch": "^2.2.1"
+    "node-fetch": "^2.3.0"
   },
   "devDependencies": {
     "@babel/core": "^7.1.5",
